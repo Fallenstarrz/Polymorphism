@@ -19,11 +19,11 @@ Finally, write a Main() program that creates instances of all 3 classes and call
 
 
 // This file contains all function bodies for characters.h
-
-#include "iostream"
-#include "characters.h"
-#include "string"
 #include "stdafx.h"
+#include "iostream"
+#include "Characters.h"
+#include "string"
+
 
 using namespace std;
 
